@@ -1,0 +1,13 @@
+#data manipulation and analysis
+pandas>=1.5.0              #for working with dataframes (like spreadsheets in python)
+numpy>=1.21.0              #for numerical computations and arrays
+
+#data visualization
+matplotlib>=3.5.0          #for creating plots and charts
+seaborn>=0.11.0            #for beautiful statistical visualizations
+
+#machine learning
+scikit-learn>=1.0.0        #for ML models (Random Forest, Linear Regression, etc.)
+
+#PDF generation
+reportlab>=3.6.0           #for creating PDF reports
